@@ -13,6 +13,9 @@ npm install gulp-sass --save-dev
 npm install @babel/core --save
 npm install gulp-svgmin --save
 
+//installer sourcemaps
+
+
 gulp watch
 
 
