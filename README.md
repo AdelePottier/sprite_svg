@@ -1,2 +1,19 @@
-# svg_sprite
-sprite svg
+//Installe de manière globale gulp
+npm install gulp -g
+
+//créer un projet 
+npm init
+
+//Installer gulp dans le projet
+npm install gulp --save-dev
+
+npm install gulp-sass --save-dev
+
+(Si il manque les packages @babel/core ou gulp-svgmin)
+npm install @babel/core --save
+npm install gulp-svgmin --save
+
+gulp watch
+
+
+
